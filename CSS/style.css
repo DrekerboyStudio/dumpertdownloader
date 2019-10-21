@@ -1,0 +1,67 @@
+body {
+    background-color: #4D4D4D;  
+}
+
+H1 {
+    color: white;
+    padding-left: 150px;
+    font-size: 70px;
+    padding-bottom: 25px;
+    padding-top: 30px;
+}
+
+.mid {
+    background-color: #39B54A;
+    height: 200px;
+    padding-top: 150px;
+}
+
+.logo {
+    width: 128px;
+    height: 128px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    float: left;
+    padding-left: 10px;
+}
+
+footer {
+    background-color: white;
+    padding-bottom: 200px;
+}
+
+.knop {
+    height: 100px;
+    width: 200px;
+    background: #4D4D4D;
+    border: 0;
+    color: white;
+    font-size: 30px;
+}
+
+.url {
+    height: 100px;
+    width: 1500px;
+    text-align: center;
+    float: center;
+    border: 0;
+    font-size:50px;
+}
+
+.informatie {
+    text-align: center;
+}
+
+.converter {
+    padding-left: 100px;
+}
+
+.contact {
+    padding-left: 600px;
+    float: left;
+}
+
+.werking {
+    padding-right: 500px;
+    float: right;
+}
